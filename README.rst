@@ -34,7 +34,8 @@ vboxshot
     Capture screenshot of a virtualbox session
 yt-audio
     Download online video and convert to audio (more: `"Download videos using youtube-dl" <http://www.circuidipity.com/youtube-dl.html>`_)
-
+portlist.sh
+    list all tty devices
 Author
 ======
 
